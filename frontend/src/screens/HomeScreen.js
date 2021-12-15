@@ -1,6 +1,7 @@
 import React from 'react'
 import {Row, Col} from 'react-bootstrap'
 import Product from '../components/Product'
+import axios from 'axios'
 
 import products from '../products'
 
